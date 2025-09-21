@@ -1,0 +1,40 @@
+﻿Tabelle: 32211-0001
+Water extraction, inhabitants connected to the public water;;;;;;;;;
+supply system, water distribution: Länder, years;;;;;;;;;
+Survey of public water supply;;;;;;;;;;;;;;;;;
+;;Water supply utilities with water extraction;;Water extraction plants;;Water extraction;;Inhabitants;;Inhab. connected to the public water supply system;;Water distribution to final consumers;;Water distrib. to households and small businesses;;Water distr. to hh and small bus. per inh. and day;
+;;number;number;number;number;1000 cbm;1000 cbm;number;number;number;number;1000 cbm;1000 cbm;1000 cbm;1000 cbm;l;l
+2022;Baden-Württemberg;808;e;2337;e;699249;e;11124642;e;11082949;e;599893;e;500415;e;123;e
+;Bayern;1633;e;2939;e;910588;e;13176989;e;13093220;e;780243;e;656614;e;136;e
+;Berlin;2;e;8;e;229230;e;3677472;e;3662762;e;209804;e;153004;e;114;e
+;Brandenburg;79;e;367;e;139551;e;2537868;e;2514148;e;125654;e;107836;e;118;e
+;Bremen;2;e;2;e;13401;e;676463;e;676351;e;36808;e;30243;e;120;e
+;Hamburg;3;e;12;e;115871;e;1853935;e;1853935;e;107751;e;83589;e;112;e
+;Hessen;361;e;2632;e;359234;e;6295017;e;6287832;e;323496;e;287731;e;127;e
+;Mecklenburg-Vorpommern;49;e;1283;e;97781;e;1611160;e;1607260;e;91241;e;67122;e;115;e
+;Niedersachsen;211;e;630;e;568753;e;8027031;e;7987968;e;490880;e;389617;e;134;e
+;Nordrhein-Westfalen;349;e;882;e;1207891;e;17924591;e;17757187;e;1033606;e;866694;e;135;e
+;Rheinland-Pfalz;156;e;2053;e;258771;e;4106485;e;4101839;e;233633;e;195570;e;129;e
+;Saarland;40;e;394;e;65272;e;982348;e;982108;e;51441;e;43263;e;121;e
+;Sachsen;64;e;480;e;283111;e;4043002;e;4021140;e;202800;e;140317;e;96;e
+;Sachsen-Anhalt;30;e;480;e;71860;e;2169253;e;2165407;e;116100;e;81195;e;103;e
+;Schleswig-Holstein;306;e;366;e;183310;e;2922005;e;2889140;e;169041;e;127348;e;129;e
+;Thüringen;62;e;850;e;117817;e;2108863;e;2105073;e;94095;e;74262;e;96;e
+;Total;4155;e;15715;e;5321690;e;83237124;e;82788319;e;4666486;e;3804820;e;126;e
+__________
+"Water supply utilities with water extraction:
+Regional allocation depending on the location of the water
+supply utility.
+
+Water extraction plants:
+Regional allocation depending on the location of the water
+extraction plant.
+Including plants without water extraction.
+
+Inhabitants: 
+Until 2019: Survey reference date: 30 June of the reference
+year.
+From 2022: Survey reference date: 31 December of the year
+preceding the reference year."
+© Statistisches Bundesamt (Destatis), 2025
+created: 2025-09-21 / 02:34:31
